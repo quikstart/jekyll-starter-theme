@@ -53,7 +53,7 @@ That's it.
 
 ## More (Alternative) Quick Starter Templates / Scripts
 
-See the [Quik Scripts](https://github.com/quikstar/scripts) library or try:
+See the [Quik Scripts](https://github.com/quikstart/scripts) library or try:
 
 ```
 $ quik ls
