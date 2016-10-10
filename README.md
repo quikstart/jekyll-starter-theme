@@ -1,2 +1,1 @@
-# jekyll-starter-theme
-jekyll quick starter template / scaffold - build your own (gem-packed) theme
+# Jekyll Quick Starter Template / Scaffold - Build Your Own (Gem-Packaged) Theme
