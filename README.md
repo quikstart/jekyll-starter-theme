@@ -7,8 +7,7 @@ $ quik new jekyll-theme
 ```
 
 This will download and run
-the [`jekyll-theme.rb`](https://github.com/quikstart/scripts/blob/master/jekyll-theme.rb)
-quik starter wizard script. Resulting in:
+the quik starter wizard script ([`quik.rb`](quik.rb)). Resulting in:
 
 ```
 Hello from the jekyll theme quick starter wizard script
@@ -53,7 +52,7 @@ That's it.
 
 ## More (Alternative) Quick Starter Templates / Scripts
 
-See the [Quik Scripts](https://github.com/quikstart/scripts) library or try:
+See the [Quik Scripts](https://github.com/quikstart/scripts) catalog / directory or try:
 
 ```
 $ quik ls
@@ -66,6 +65,7 @@ to list all "official" registered quick starter templates / scripts.
 
 Send them along to the ruby-talk mailing list.
 Thanks!
+
 
 
 ---
